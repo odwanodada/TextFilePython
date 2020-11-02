@@ -1,0 +1,7 @@
+appendFile = open('Friday.txt','a')
+appendFile.write("Nice cold beers\n")
+appendFile.write("so hot today\n")
+appendFile.write("Odwa the best drinker\n")
+appendFile.write("who is the best\n")
+appendFile.write("jonga sundiqhela\n")
+appendFile.close()
